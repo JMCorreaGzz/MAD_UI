@@ -1,0 +1,15 @@
+C:\Users\JoseM\source\repos\workPls\workPls\bin\Debug\workPls.exe.config
+C:\Users\JoseM\source\repos\workPls\workPls\bin\Debug\workPls.exe
+C:\Users\JoseM\source\repos\workPls\workPls\bin\Debug\workPls.pdb
+C:\Users\JoseM\source\repos\workPls\workPls\bin\Debug\workPls.xml
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.vbprojAssemblyReference.cache
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.WND_CFE.resources
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.WND_LOGIN.resources
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.Resources.resources
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.vbproj.GenerateResource.cache
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.vbproj.CoreCompileInputs.cache
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.exe
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.xml
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.pdb
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.WND_ADD_CLNT.resources
+C:\Users\JoseM\source\repos\workPls\workPls\obj\Debug\workPls.WND_ADD_EMPLY.resources
